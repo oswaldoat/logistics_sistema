@@ -51,10 +51,12 @@ const despachosEjemplo: Despacho[] = [
 ];
 
 const usuariosEjemplo: Usuario[] = [
-  { id: 'U001', nombre: 'Roberto Silva García', email: 'roberto.silva@logistics.pe', rol: 'Administrador', estado: 'Activo' },
-  { id: 'U002', nombre: 'María Flores López', email: 'maria.flores@logistics.pe', rol: 'Almacenero', estado: 'Activo' },
-  { id: 'U003', nombre: 'Luis Ramírez Soto', email: 'luis.ramirez@logistics.pe', rol: 'Operador', estado: 'Activo' },
-  { id: 'U004', nombre: 'Ana Gutierrez Ponce', email: 'ana.gutierrez@logistics.pe', rol: 'Almacenero', estado: 'Inactivo' },
+  { id: 'U001', nombre: 'Oswaldo Antialon', email: 'oswaldo.antialon@logistics.pe', rol: 'Administrador', estado: 'Activo' },
+  { id: 'U002', nombre: 'Katherine Cardenas', email: 'katherine.cardenas@logistics.pe', rol: 'Operador', estado: 'Activo' },
+  { id: 'U003', nombre: 'Oscar Garay', email: 'oscar.garayz@logistics.pe', rol: 'Almacenero', estado: 'Activo' },
+  { id: 'U004', nombre: 'Juan Nina', email: 'juan.nina@logistics.pe', rol: 'Almacenero', estado: 'Inactivo' },
+  { id: 'U005', nombre: 'Jorge Taracaya', email: 'jorge.taracaya@logistics.pe', rol: 'Almacenero', estado: 'Activo' },
+  { id: 'U006', nombre: 'Carlos Ucedo', email: 'carlos.ucedo@logistics.pe', rol: 'Operador', estado: 'Inactivo' },
 ];
 
 // Componentes de interfaz
